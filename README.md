@@ -10,7 +10,7 @@
 </table>
 
 $${\color{#ffbae4}{\text{こんにちは!}}}$$ $${\color{gray}{\text{(づ｡◕‿‿◕｡)づ}}}$$ </br>
-* Olá! eu me chamo $${\color{#ffbae4}{\text{Julie}}}$$ e sou apaixonada por $${\color{#ffbae4}{\text{desenvolvimento back-end}}}$$ </br>
+ Olá! eu me chamo $${\color{#ffbae4}{\text{Julie}}}$$ e sou apaixonada por $${\color{#ffbae4}{\text{desenvolvimento back-end}}}$$ </br>
 $${\color{gray}{\text{૮⸝⸝> ̫ <⸝⸝ ა}}}$$ atualmente eu trabalho com $${\color{#ffbae4}{\text{TypeScript}}}$$</br>
 $${\color{gray}{\text{☆:.｡.o(≧▽≦)o.｡.:☆}}}$$ Amo criar pequenos projetos em $${\color{#ffbae4}{\text{Elixir, Go e Rust}}}$$</br>
 $${\color{gray}{\text{(ﾉ´ヮ´)ﾉ*: ･ﾟ}}}$$ Atualmente, estou estudando $${\color{#ffbae4}{\text{Ballerina e Japonês (日本語)}}}$$.</br>
