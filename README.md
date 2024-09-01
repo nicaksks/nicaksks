@@ -21,6 +21,6 @@ $${\color{gray}{\text{(ﾉ´ヮ´)ﾉ*: ･ﾟ}}}$$ Atualmente, estou estudando 
         <a href="https://www.linkedin.com/in/nicaksks" target="_blank">LinkedIn</a>ㅤ
         <span>˚ʚ♡ɞ˚ㅤ</span>
         ✧(✿╹◡╹)✧
-        <a href="https://x.com/nica_cpp" target="_blank">Twitter</a> 
+        <a href="https://bsky.app/profile/nicashow.fun" target="_blank">Bluesky</a> 
     </span>
 </div>
