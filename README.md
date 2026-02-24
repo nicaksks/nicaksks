@@ -8,7 +8,7 @@
         <td></td>
     </tr>
 </table>
-<h4 align="center"><a href="https://github.com/projetos-da-nica" target="_blank">𐔌Meuprojetos𐦯</a></h4>
+<h4 align="center"><a href="https://github.com/projetos-da-nica" target="_blank">𐔌Meus projetos𐦯</a></h4>
 
 $${\color{#ffbae4}{\text{こんにちは!}}}$$ $${\color{gray}{\text{(づ｡◕‿‿◕｡)づ}}}$$ </br>
  Olá! eu me chamo $${\color{#ffbae4}{\text{Julie}}}$$ e sou apaixonada por $${\color{#ffbae4}{\text{desenvolvimento back-end}}}$$ </br>
