@@ -4,6 +4,7 @@
         <td>
             <img src="./1.jpg"/>
             <h1 align="center">✧･ﾟ: *✧･ﾟ:* Sobre mim *:･ﾟ✧*:･ﾟ✧</h1>
+            <span align="center"><a href="https://github.com/projetos-da-nica" target="_blank">Meu projetos</a></span>
         </td>
         <td></td>
     </tr>
