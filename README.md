@@ -4,12 +4,11 @@
         <td>
             <img src="./1.jpg"/>
             <h1 align="center">✧･ﾟ: *✧･ﾟ:* Sobre mim *:･ﾟ✧*:･ﾟ✧</h1>
-            <span align="center"><a href="https://github.com/projetos-da-nica" target="_blank">Meu projetos</a></span>
         </td>
         <td></td>
     </tr>
 </table>
-
+<span align="center"><a href="https://github.com/projetos-da-nica" target="_blank">Meu projetos</a></span>
 $${\color{#ffbae4}{\text{こんにちは!}}}$$ $${\color{gray}{\text{(づ｡◕‿‿◕｡)づ}}}$$ </br>
  Olá! eu me chamo $${\color{#ffbae4}{\text{Julie}}}$$ e sou apaixonada por $${\color{#ffbae4}{\text{desenvolvimento back-end}}}$$ </br>
 $${\color{gray}{\text{૮⸝⸝> ̫ <⸝⸝ ა}}}$$ atualmente eu trabalho com $${\color{#ffbae4}{\text{TypeScript}}}$$</br>
