@@ -19,9 +19,9 @@ $${\color{gray}{\text{(ﾉ´ヮ´)ﾉ*: ･ﾟ}}}$$ Atualmente, estou estudando 
 <div align="center">
     <span>
         ✧(｡•̀ᴗ-)✧
-        <a href="https://www.linkedin.com/in/nicaksks" target="_blank">LinkedIn</a>ㅤ
+        <a href="https://www.linkedin.com/in/nicaksks" target="_blank"><b>LinkedIn</b></a>ㅤ
         <span>˚ʚ♡ɞ˚ㅤ</span>
         ✧(✿╹◡╹)✧
-        <a href="https://x.com/nicaksks" target="_blank">X</a> 
+        <a href="https://x.com/nicaksks" target="_blank"><b>X</b></a> 
     </span>
 </div>
